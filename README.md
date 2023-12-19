@@ -1,2 +1,8 @@
 # dataMining_01
-Mining dataset with 3 method !
+## Mining dataset with 3 method !
+```
+  Decision Tree
+  Rule Base methods
+  Naive Bayes
+```
+Dataset ir from [kaggle](https://kaggle.com).
