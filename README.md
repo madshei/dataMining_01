@@ -5,4 +5,4 @@
   Rule Base methods
   Naive Bayes
 ```
-Dataset ir from [kaggle](https://kaggle.com).
+Dataset is from [kaggle](https://kaggle.com).
